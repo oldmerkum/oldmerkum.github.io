@@ -13,4 +13,8 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'font-awesome-sass', '~> 4.2.0'
 gem 'middleman-bootstrap-navbar'
 
+gem 'bitters'
+gem 'bourbon'
+gem 'neat'
+
 gem 'middleman-deploy', '~> 2.0.0.pre.alpha'

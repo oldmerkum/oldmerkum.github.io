@@ -11,8 +11,10 @@
     <%= javascript_include_tag "site" %>
   </head>
   <body>
-    <%= partial "navbar" %>
-    <%= yield %>
-    <%= partial "footer" %>
+    <div id="main" role="main">
+      <%= partial "navbar" %>
+      <%= yield %>
+      <%= partial "footer" %>
+    </div>
   </body>
 </html>
