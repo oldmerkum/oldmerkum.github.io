@@ -1,0 +1,16 @@
+site_name: OldMerkum
+nav:
+  - Home: index.md
+  - Information Security:
+    - Overview: info_sec/info_sec.md
+  - Game Development:
+    - Ultrablastkin: game_dev/ultrablastkin.md
+  - Japanese:
+    - Introduction: japanese/intro.md
+  - About: about.md
+
+extra_css:
+  - css/form.css
+
+extra_javascript:
+  - js/post_contact.js
