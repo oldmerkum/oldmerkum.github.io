@@ -24,7 +24,10 @@ contribute to and edit. View the main website at
 
 ## Demo
 
-I am providing a downloadable demo to be able to play the most recent build
-of the game.
+The project is [here](/downloads/Ultrablastkin/ultrablastkin.zip)
 
-[Android Build](../downloads/Ultrablastkin/android/Ultrablastkin.apk)
+windows [build](/downloads/Ultrablastkin/windows/ultrablastkin.exe)
+
+linux [build](/downloads/Ultrablastkin/linux/ultrablastkin.x86_64)
+
+mac [build](/downloads/Ultrablastkin/mac/ultrablastkin.dmg)

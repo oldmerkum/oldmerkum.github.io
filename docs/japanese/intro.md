@@ -74,4 +74,31 @@ brief pause.
 
 ## Chouon or Long Vowels
 
+When certain vowels are next to each other, the pronunciation of the first vowel
+should be held for double the normal length of the vowel.
+
+All the vowels except for o, just double the vowel to elongate it. To elongate
+a syllable which ends with o, just add an う at the end.
+
+**koukou こうこう**
+
 # Katakana
+
+There is also katakana, which is generally used for foreign words.
+
+|  | a | i | u | e | o |
+|---|---|---|---|---|---|
+| k | カ ka | キ ki | ク ku | ケ ke | コ ko |
+| s | サ sa | シ shi | ス su | セ se | ソ so |
+| t | タ ta | チ chi | ツ tsu | テ te | ト to |
+| n | ナ na | ニ ni | ヌ nu | ネ ne | ノ no |
+| h | ハ ha | ヒ hi | フ fu | ヘ he | ホ ho |
+| m | マ ma | ミ mi | ム mu | メ me | モ mo |
+| y | ヤ ya |  | ユ yu |  | ヨ yo |
+| r | ラ ra | リ ri | ル ru | レ re | ロ ro |
+| w | ワ wa |  |  |  | ヲ wo |
+|   |  |  | ン n |  |  |
+
+# References
+
+https://www.learn-japanese-adventure.com/what-are-sokuon-and-long-vowels.html
