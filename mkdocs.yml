@@ -1,14 +1,11 @@
 site_name: OldMerkum
 nav:
   - Home: index.md
-  - Information Security:
-    - Overview: info_sec/info_sec.md
-  - Game Development:
+  - Game Projects:
     - Ultrablastkin: game_dev/ultrablastkin.md
-  - Japanese:
-    - Introduction: japanese/intro.md
-    - Greetings: japanese/greetings.md
-  - About: about.md
+  - Demos:
+    - Ultrablastkin Demo: demos/ultrablastkin/html/ultrablastkin.html
+  - Contact: contact.md
 
 extra_css:
   - css/form.css

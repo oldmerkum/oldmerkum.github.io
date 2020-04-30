@@ -24,10 +24,4 @@ contribute to and edit. View the main website at
 
 ## Demo
 
-The project is [here](/downloads/Ultrablastkin/ultrablastkin.zip)
-
-windows [build](/downloads/Ultrablastkin/windows/ultrablastkin.exe)
-
-linux [build](/downloads/Ultrablastkin/linux/ultrablastkin.x86_64)
-
-mac [build](/downloads/Ultrablastkin/mac/ultrablastkin.dmg)
+ Play a current demo <a href="/demos/ultrablastkin/html/ultrablastkin.html">here</a>.
