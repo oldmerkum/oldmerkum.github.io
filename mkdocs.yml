@@ -2,9 +2,9 @@ site_name: OldMerkum
 nav:
   - Home: index.md
   - Game Projects:
-    - Ultrablastkin: game_dev/advantage.md
+    - Advantage: game_dev/advantage.md
   - Demos:
-    - Ultrablastkin Demo: demos/advantage/html/advantage.html
+    - Advantage Demo: demos/advantage/html/advantage.html
   - Contact: contact.md
 
 extra_css:
