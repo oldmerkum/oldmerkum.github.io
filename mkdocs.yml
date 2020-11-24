@@ -1,10 +1,11 @@
-site_name: OldMerkum
+site_name: OldMerkum github page
 nav:
   - Home: index.md
-  - Game Projects:
-    - Advantage: game_dev/advantage.md
-  - Demos:
-    - Advantage Demo: demos/advantage/html/advantage.html
+  - Projects and misc:
+    - Advantage: projects_misc/ultrablastkin.md
+    - Misc: projects_misc/misc.md
+  - Site Setup:
+    - MkDocs: site_setup/mkdocs.md
   - Contact: contact.md
 
 extra_css:

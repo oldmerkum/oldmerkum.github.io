@@ -1,14 +1,11 @@
-# Advantage
+# UltraBlastKin
 
 ## Description
 
-Advantage is a 2D-platform fighter that I am working on using the Godot engine.
+UltraBlastkin is a 2D-platformer. I used open source art online for the assets.
+Once I clean up the repo, I'll make it public.
 
 ## Development
-
-I plan to work on documenting the different programming decisions that I made
-when developing this game. I am going to use MKDocs for this, since it was
-made for that purpose.
 
 During development I used various design patterns to make refactoring easier.
 A great resource for understanding the different design patterns is to read the
@@ -21,6 +18,12 @@ contribute to and edit. View the main website at
 [Godot Engine](https://godotengine.org/) and the documentation at
 [Godot Docs](https://docs.godotengine.org/).
 
-## Demo
+## Art assets
 
- Play a current demo <a href="/demos/advantage/html/advantage.html">here</a>.
+The assets used are from various online artists.
+
+[Rvros](https://rvros.itch.io/) created adventurer and slime sprite assets that
+are great.
+
+Couldn't find this person again, but their tag was foxley and they made cool
+backgrounds and tile sets that I used.
