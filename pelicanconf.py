@@ -33,6 +33,7 @@ AUTHOR_FEED_RSS = None
 
 # Social widget
 SOCIAL = (
+        ("linkedin", "https://www.linkedin.com/in/antonio-marcum-272784169/"),
         ("github", "https://github.com/oldmerkum"),
 )
 
