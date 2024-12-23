@@ -1,9 +1,10 @@
 Title: About
 Date: 2024-12-23 13:30
 
-## Information security compliance lead | Researcher cyberphysical systems
 
-I am a cybersecurity professional currently serving as information security compliance lead.
+## Graduate Research
+Research thesis to conduct an analysis on binary similarity in cyberphysical systems.
 
-In addition to my professional role, I am pursuing my Master's in computer science with my thesis research focused on binary similarity analysis of cyberphysical systems.
 
+## Information Security Compliance Lead
+Responsible for conducting security and risk assessments to improve the cybersecurity posture of the organization.
